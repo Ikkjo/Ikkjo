@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌚
 
 <!--
 **Ikkjo/Ikkjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ilija. I'm currently in my fourth year of software engineering studies at the Faculty of Technical Sciences, University of Novi Sad.
+<br/>
+- 💬 I'm mainly interested in ML, Data Science, and Embedded Engineering
+- 🌱 I’m currently learning Tensorflow and Angular
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/kalinic-i/) or by [email](mailto:ilija.kalinic@gmail.com)
+- ⚡ Fun fact: I play guitar, record and produce [my own music](https://youtube.com/playlist?list=PLE9H0WqkMhmEW82bpPPXDwPDmM2QPzH5l) in my free time!
+<br/>
+<img alt="Ilija's stats" src="https://github-readme-stats.vercel.app/api?username=Ikkjo&show_icons=true&theme=react" width=600>
