@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software engineer @syrmia. I'm currently pursuing my masters degree in Artificial Intelligence and Machine Learning / Natural Language Processing and Computer Vision at the Faculty of Technical Sciences, University of Novi Sad 
+## About me
+
+Software engineer [@syrmia](https://www.syrmia.com/).
+<br/>
+I'm currently pursuing my masters degree in Artificial Intelligence and Machine Learning / Natural Language Processing and Computer Vision at the Faculty of Technical Sciences, University of Novi Sad 
 <br/>
 - 💬 I'm mainly interested in ML, Data Science, and Embedded Engineering
 - 🌱 I’m currently learning IREE, MLIR, Mathematics for Machine Learning, Big Data Architectures, Probabilistic Graphical Models, Machine Vision, Neural Networks
